@@ -4,6 +4,18 @@
 
 原作传送门[点击](https://github.com/Waheal/MSL2)
 
+## 需要安装的库
+
+psutil
+
+PySide6
+
+tqdm
+
+multitasking
+
+retry
+
 ## 警告：
 
 ### 本程序专为Linux制作，虽然可行但不推荐在其他系统上运行
